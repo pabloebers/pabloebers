@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pabloebers
-- 👀 I’m interested in web development and video games :D
-- 🌱 I’m currently learning HTML and CSS.
-- 📫 You can reach me at PabloEber010@gmail.com / @kuroxkenshi on instagram.
+- 👋 Welcome to my GitHub, I’m @pabloebers.
+- 👀 I’m interested in Programming and Video Games.
+- 🌱 I’m currently learning HTML, CSS, Git and GitHub.
+- 📫 You can reach me at my email: PabloEber010@gmail.com or at my LinkedIn: https://www.linkedin.com/in/pabloebers/
 
 <!---
 pabloebers/pabloebers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
