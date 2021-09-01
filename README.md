@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋, I'm Pablo Sánchez</h1>
-<h3 align="center">An "almost" self-taught Web Development 20 year old student :)</h3>
+<h3 align="center">A Web Development 20 year old student :)</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and GitHub at NUCBA.**
 - 👀 I'm interested in **Programming** and **Video Games.**
